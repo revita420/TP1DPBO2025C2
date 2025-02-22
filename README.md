@@ -2,6 +2,18 @@
 
 Saya Syahraini Revita Puri dengan NIM 2301895 berjanji mengerjakan TP1 DPBO dengan keberkahan-Nya, maka saya tidak akan melakukan kecurangan sesuai yang telah di spesifikasikan, Aamiin
 
+## Desain Program 
+Terdiri dari 1 class yaitu PetShop, yang memiliki atribut ID, Nama, Kategori, Harga, dan Foto(Khusus PHP)
+
+## Alur Program
+Pertama user diminta memilih menu lalu ditujukan ke form yg berisi fitur sesuai menu yg dituju secara dinamis. Adapun fitur atau menu :
+(1) Tambah Produk = User akan diminta inputan ID, Nama, Kategori, Harga, dan Foto(Khusus PHP), lalu akan muncul notifikasi "Produk berhasil ditambahkan"
+(2) Tampilkan Produk = Menampilkan semua produk yang sudah diinput atau ditambah
+(3) Hapus Produk = User diminta memasukkan ID produk yang ingin dihapus, lalu akan muncul notifikasi "Produk berhasil dihapus"
+(4) Ubah Produk = User diminta memasukkan ID produk yang ingin diubah, jika ditemukan user diminta mengubah Nama, Kategori, Harga, dan Foto(khusus PHP), lalu akan muncul notifikasi "Produk berhasil diubah"
+(5) Cari Produk = User diminta memasukkan nama produk , jika ditemukan produk yang dicari akan ditampilkan
+(6) Keluar = Program berhenti
+
 **Dokumentasi cpp**
 
 ![WhatsApp Image 2025-02-15 at 21 42 48_d2846da4](https://github.com/user-attachments/assets/a03421aa-341c-4730-b719-67c75e60386f)
